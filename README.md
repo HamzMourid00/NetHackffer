@@ -1,8 +1,8 @@
 ## NetHackffer
-NetHackffer is a simple automation python script for ARP and DNS spoofing attacks
+NetHackffer is a simple automation python script for ARP and DNS spoofing attacks and cookies sniffing 
 
 #Linux installation
-```bash
+```sh
 sudo git clone https://github.com/HamzMourid00/NetHackffer.git
 cd NetHackffer
 sudo chmod 770 NetHackffer.py
