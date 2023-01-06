@@ -11,4 +11,4 @@ sudo chmod 770 requirements.sh
 sudo su
 ./NetHackffer.py
 ```
-![Github Banner](https://github.com/HamzMourid00/NetHackffer/blob/main/image.PNG)
+![Github Banner](https://github.com/HamzMourid00/NetHackffer/blob/main/img.png)
