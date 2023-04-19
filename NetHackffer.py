@@ -268,28 +268,5 @@ elif choice == "7":
     os.system(f"sudo xterm -bg black -fg white +j -geometry 120x30+0-0 -T Attack_VTP -e yersinia vtp -attack 1 -interface {args.interface}")
 elif choice == "8":
     os.system(f"sudo xterm -bg black -fg white +j -geometry 120x30+0-0 -T Attack_CDP -e yersinia cdp -attack 1 -interface {args.interface}")
-
-
-
 else:
     quit()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-
