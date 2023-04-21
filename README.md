@@ -13,7 +13,7 @@ cd NetHackffer
 chmod 770 NetHackffer.py
 chmod 770 setup.sh
 ./setup.sh
-./NetHackffer.py
+./NetHackffer.py interface user
 ```
 # Requirements
 
